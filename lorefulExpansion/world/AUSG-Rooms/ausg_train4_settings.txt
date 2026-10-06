@@ -1,3 +1,5 @@
 Template: NONE
 Palette: 6756
-Effects: Bloom-0.5-20-20, 
+EffectColorA: 14
+Effects: Bloom-0.5869565-20-20, 
+PlacedObjects: FloatMud><1395.144><123.6387><221~120~26, FloatMud><1795><151><137~106~26, FloatMud><2046><90><334~155~26, FloatMud><2836><62><269~142~26, WallLight><1430.05><156.9898><23~165~1430.05~156.9898~-5~103~182~5~205~98~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, WallLight><1808><213><23~165~1808~213~5~80~97~8~105~69~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, WallLight><2869><159><23~165~2869~159~-1~65~221~-8~250~47~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, WallLight><2093><168><23~165~2093~168~-5~103~182~5~264~104~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, FloatMud><4513.337><-17.38457><421~199~15, WallLight><4590><16><23~165~4590~16~-99~137~182~5~344~207~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, FloatMud><5992.397><49.17169><176~71~15, WallLight><6013><75><23~165~6013~75~21~65~142~-1~140~69~0.9347826~0.5~0.4021739~False~SkyColor~False~False~Always~Soft, DangleFruit><3060.966><566.447><173~125~2~3, DangleFruit><3038><577><173~125~2~3, 
