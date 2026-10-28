@@ -6,7 +6,9 @@ ROOMS
 AUSG_train1 : DISCONNECTED, AUSG_train2
 AUSG_train2 : AUSG_train1, AUSG_train3
 AUSG_train3 : AUSG_train2, AUSG_train4
-AUSG_train4 : AUSG_pillar1, AUSG_pillar2, AUSG_train3, DISCONNECTED
+AUSG_train4 : AUSG_pillar1, AUSG_pillar2, AUSG_train3, AUSG_casino1
+
+AUSG_casino1 : DISCONNECTED, DISCONNECTED, AUSG_train4
 
 AUSG_pillar1 : DISCONNECTED, AUSG_train4
 AUSG_pillar2 : AUSG_train4, AUSG_pillar3
@@ -19,6 +21,10 @@ DISCONNECTED
 END ROOMS
 
 CREATURES
+
+AUSG_casino1 : 4-Peach-2
+AUSG_tunnel1 : 3-Red
+
 END CREATURES
 
 BAT MIGRATION BLOCKAGES
