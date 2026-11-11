@@ -1,0 +1,22 @@
+CeilingDrips: 1
+WaveSpeed: 0.5
+WaveLength: 0
+WaveAmplitude: 0
+SecondWaveLength: 0
+SecondWaveAmplitude: 0
+Grime: 0.3804348
+Palette: 5651
+EffectColorA: 18
+EffectColorB: 6
+TerrainLight: 1
+TerrainStainAmount: 0.3913043
+TerrainStainBrightness: 0
+TerrainStainHeight: 0.4673913
+TerrainWaves: 1
+TerrainEdgeRadius: 62.17386
+TerrainGooHeight: 1
+TerrainGrain: 1
+TerrainDepth: 0.2173844
+TerrainPalette: sus_sand_interior
+Effects: Bloom-0.3043478-20-20, SilenceWater-0.8043478-94-97, 
+AmbientSounds: OMNI><MSC-HeavyCreaking.ogg><266.1377><183.6049><0.1521739><0.8043478, OMNI><RWTW_AmbSubBubble.ogg><252.5588><344.9412><0.06521739><0.8630434, OMNI><SO_SFX-DeepLake.ogg><465.638><466.1657><0.3043478><0.8043478, OMNI><SO_SFX-LakeBottom.ogg><761.6105><208.1433><0.3043478><0.823913, 

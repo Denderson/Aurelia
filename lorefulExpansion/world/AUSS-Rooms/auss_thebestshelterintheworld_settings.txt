@@ -1,0 +1,13 @@
+Template: NONE
+Palette: 5651
+EffectColorA: 10
+TerrainLight: 1
+TerrainStainBrightness: 0
+TerrainStainHeight: 0
+TerrainWaves: 1
+TerrainEdgeRadius: 29.56516
+TerrainGooHeight: 0.08695652
+TerrainGrain: 1
+TerrainDepth: 0.05434096
+TerrainPalette: sus_sand_interior
+PlacedObjects: LocalTerrain><221.4904><362.0502><188~462^-46~106^9~338^-69~, LocalTerrain><51.60968><390.8575><59~169^-28~1^58~84^-18~, 

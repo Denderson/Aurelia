@@ -1,0 +1,9 @@
+Template: NONE
+Palette: 5650
+TerrainLight: 1
+TerrainEdgeRadius: 0
+TerrainGooHeight: 0.1086956
+TerrainGrain: 0
+TerrainDepth: 0.05434096
+TerrainPalette: sus_sand
+PlacedObjects: LocalTerrain><193.5268><433.8018><294~594^-45~172^106~494^-102~, 
