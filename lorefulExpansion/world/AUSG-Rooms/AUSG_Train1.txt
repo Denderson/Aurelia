@@ -1,6 +1,6 @@
-AUSG_cheesepizza
+AUSG_garage
 48*35|-1|0
-2.3770*3.4957|0|0
+0.8944*0.4472|0|0
 -220,-50
 Border: Passable
 
